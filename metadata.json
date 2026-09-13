@@ -1,0 +1,6 @@
+{
+  "name": "Tutor di Giapponese JLPT N5",
+  "description": "Tutor personale interattivo per esercitarsi nella costruzione di frasi e traduzione dall'italiano al giapponese di livello JLPT N5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
